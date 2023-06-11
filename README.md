@@ -40,6 +40,7 @@ THEN I should have proper build scripts for a webpack application
 ![ScreenShot](./assets/pic.png)
 
 https://github.com/izbeloro/text-editor
+https://dashboard.heroku.com/apps/text-editors
 
 ## Credits
 
